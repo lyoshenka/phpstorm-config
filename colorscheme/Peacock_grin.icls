@@ -1,6 +1,6 @@
 <scheme name="Peacock-grin" version="124" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.3" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="15" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
@@ -20,11 +20,11 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_MERGED" value="ff5d38" />
-    <option name="FILESTATUS_MODIFIED" value="bcd42a" />
+    <option name="FILESTATUS_MODIFIED" value="1d4cbd" />
     <option name="FILESTATUS_NOT_CHANGED" value="" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="bcd42a" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="bcd42a" />
-    <option name="FILESTATUS_UNKNOWN" value="d1675a" />
+    <option name="FILESTATUS_UNKNOWN" value="9b0099" />
     <option name="FILESTATUS_addedOutside" value="629755" />
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="bcd42a" />
