@@ -948,6 +948,11 @@
         <option name="FOREGROUND" value="908b25" />
       </value>
     </option>
+    <option name="MAGIC_MEMBER_ACCESS">
+      <value>
+        <option name="FOREGROUND" value="ffb199" />
+      </value>
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FONT_TYPE" value="1" />
@@ -1047,11 +1052,7 @@
         <option name="FOREGROUND" value="ede0ce" />
       </value>
     </option>
-    <option name="PHP_VAR">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
+    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="bcd42a" />
