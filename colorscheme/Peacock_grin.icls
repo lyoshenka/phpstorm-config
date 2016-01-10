@@ -50,6 +50,7 @@
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="303134" />
     <option name="WHITESPACES" value="505050" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="a39482" />
   </colors>
   <attributes>
     <option name="ABSTRACT_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
